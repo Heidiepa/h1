@@ -1,6 +1,6 @@
 # h1
 
-x) Read and summarize. Some bullets is enough for a summary.
+## x) Read and summarize. Some bullets is enough for a summary.
 
 Hutchins et al 2011: Intelligence-Driven Computer Network Defense Informed by Analysis of Adversary Campaigns and Intrusion Kill Chains
 Darknet Diaries. Pick one episode. (RSS feed)
@@ -38,6 +38,8 @@ Guide was good but somewhat complex to follow, possibly personal issue. I would 
 Also following intructions and booting up the system on only laptop (without external screen) was bit difficult but got it working finally.
 
 ## Voluntary bonus: Use either (Hutchins et al 2011) cyber kill chain or MITRE ATT&CK framework for analyzing a security incident. You can pick any incident you want (even the one you used earlier in this homework), but try to pick a source that gives you enough technical and business detail to do some analysis. (If you're in a hurry, cyber kill chain is much simpler. If you're technically skillful, you might find ATT&CK interesting)
+
+Passing this one.
 
 ## Voluntary bonus: What do you consider the fundamentals of security? What are the theoretical foundations you would teach on the first day?
 
