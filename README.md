@@ -7,6 +7,14 @@ Darknet Diaries. Pick one episode. (RSS feed)
 
 ## MITRE ATT&CK FAQ explains the ATT&CK Enterprise Matrix. Explain "tactic", "technique" and "procedure" in context of ATT&CK, and give an example of each. The enterprise matrix is big, you can just glimpse/browse it to see what's available instead of reading hundreds of pages.
 
+Tactic: The goal attacker has. There are 11 tactics in the model.
+
+Technique: Methods the attacker is using to achive tactic or goal. There are over 250 techniques reported. One example would be that attackers try to get listing of local system accounts. This technique is T1087.001 and it's siblings are cases where attacker steals email addresses, cloud accounts or domain accounts.
+
+Procedures are the specific implementations the adversaries use for techniques or subtechniques. For example, a procedure could be an adversary using PowerShell to inject into lsass.exe to dump credentials by scraping LSASS memory on a victim. Procedures are categorized in ATT&CK as the observed in the wild use of techniques in the "Procedure Examples" section of technique pages.
+
+
+
 ## How would you compare Cyber Kill Chain and ATT&CK Enterprise matrix? Who do you think could benefit from these models?
 
 
@@ -26,7 +34,8 @@ Installation was somewhat complex for the first-timer. I always feel a lot of an
 
 Comments:
 Was not that clear what name to use for virtual machine, now it is named after me, not after Tero
-Guide was good but somewhat complex to follow, possibly personal issue.
+Guide was good but somewhat complex to follow, possibly personal issue. I would have liked more concise guide but managed with this.
+Also following intructions and booting up the system on only laptop (without external screen) was bit difficult but got it working finally.
 
 ## Voluntary bonus: Use either (Hutchins et al 2011) cyber kill chain or MITRE ATT&CK framework for analyzing a security incident. You can pick any incident you want (even the one you used earlier in this homework), but try to pick a source that gives you enough technical and business detail to do some analysis. (If you're in a hurry, cyber kill chain is much simpler. If you're technically skillful, you might find ATT&CK interesting)
 
