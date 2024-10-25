@@ -4,10 +4,10 @@
 
 ### Hutchins et al 2011: Intelligence-Driven Computer Network Defense Informed by Analysis of Adversary Campaigns and Intrusion Kill Chains
 
-No IT system will be secure enough to fully prevent cyber attacks so it is better to be prepared always and in various fronts. This work is continuous and ever-changing and it is important to keep up with the world.
-Models to prepare, mitigate and resolve cyber security threats have been created, examples are Attack-Based Sequential Analysis of Countermeasures (ABSAC) and IED delivery chain model
-Good way to manage cyber security is a startgey called intelligence-driven computer network defense. This strategy is based on indicators that describe the intrusion. There are three typed of indicators: Atomic (e.g. IP addresses), computed (data based values) and behavioural indicators (combination of first two).
-Kill Chain aims to target the threat and resolve it. Kill Chain Model is a process to do Kill Chain actions in a controlled manner. With computer intelligence-driven approach, Kill Chain actions can be made more precise and even enable threat resolution even before it comes a threat. Base line is properly done indicator analysis.
+* No IT system will be secure enough to fully prevent cyber attacks so it is better to be prepared always and in various fronts. This work is continuous and ever-changing and it is important to keep up with the world.
+* Models to prepare, mitigate and resolve cyber security threats have been created, examples are Attack-Based Sequential Analysis of Countermeasures (ABSAC) and IED delivery chain model
+* Good way to manage cyber security is a startgey called intelligence-driven computer network defense. This strategy is based on indicators that describe the intrusion. There are three typed of indicators: Atomic (e.g. IP addresses), computed (data based values) and behavioural indicators (combination of first two).
+* Kill Chain aims to target the threat and resolve it. Kill Chain Model is a process to do Kill Chain actions in a controlled manner. With computer intelligence-driven approach, Kill Chain actions can be made more precise and even enable threat resolution even before it comes a threat. Base line is properly done indicator analysis.
 
 
 ### Darknet Diaries. Pick one episode. (RSS feed)
