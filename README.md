@@ -10,17 +10,21 @@
 * Kill Chain aims to target the threat and resolve it. Kill Chain Model is a process to do Kill Chain actions in a controlled manner. With computer intelligence-driven approach, Kill Chain actions can be made more precise and even enable threat resolution even before it comes a threat. Base line is properly done indicator analysis.
 
 
-### Darknet Diaries. Pick one episode. (RSS feed)
+## Darknet Diaries. Pick one episode. 
 
-
+EP 122: Lisa
+* Selected this because lady in Cyber Security is not that common occurence and may provide different insight on the topic
+* Podcast? is about Lisa's experience in internal threats. Staring point is Lisa's career in maritime activity, mainly her previous career in preventing piracy in the Horn of Africa and using music in high frequency to prevent pirates from landing on ships.
+* After the introduction, discussion turns into her Lisa's current career in internal threat prevention and about a case she had participated. Case was about huban relations and them starting to affect company's cyber security.
+* * Lisa thinks that you can be prepared but you are never really prepared. This applies to piracy and cyber threats.
 
 ## MITRE ATT&CK FAQ explains the ATT&CK Enterprise Matrix. Explain "tactic", "technique" and "procedure" in context of ATT&CK, and give an example of each. The enterprise matrix is big, you can just glimpse/browse it to see what's available instead of reading hundreds of pages.
 
-Tactic: The goal attacker has. There are 11 tactics in the model. Goal would be for example to get company secrets to be ransomed or to get personal information from individuals who 
+* Tactic: The goal attacker has. There are 11 tactics in the model. Goal would be for example to get company secrets to be ransomed or to get personal information from individuals who 
 
-Technique: Methods the attacker is using to achive tactic or goal. There are over 250 techniques reported. One example would be that attackers try to get listing of local system accounts. This technique is T1087.001 and it's siblings are cases where attacker steals email addresses, cloud accounts or domain accounts.
+* Technique: Methods the attacker is using to achive tactic or goal. There are over 250 techniques reported. One example would be that attackers try to get listing of local system accounts. This technique is T1087.001 and it's siblings are cases where attacker steals email addresses, cloud accounts or domain accounts.
 
-Procedures are ways to implement techniques that attackers want to achieve.  Attacker can use e.g. Powershell script to inject  data in a location where the crime is done.
+* Procedures are ways to implement techniques that attackers want to achieve.  Attacker can use e.g. Powershell script to inject  data in a location where the crime is done.
 
 
 ## How would you compare Cyber Kill Chain and ATT&CK Enterprise matrix? Who do you think could benefit from these models?
@@ -30,7 +34,6 @@ Cyber Kill Chain and Atta&ck enterprise matrix are introverted and extroverted f
 The MITRE ATT&CK Framework is a knowledge base and model for understanding adversary behavior. Developed by the not-for-profit MITRE Corporation and originally designed in support of the U.S. Military, it covers the full spectrum of tactics, techniques, and procedures used by attackers, from reconnaissance and initial access through to impact.
 
 The ATT&CK framework goes beyond just mapping out the stages of an attack. It provides a detailed description of the techniques used by attackers at each stage, along with mitigation strategies and detection methods. It is regularly updated and expanded, taking into account the latest threat intelligence and research.
-
 
 
 ## Pick a security incident and learn about it. Write briefly about it. Point out the concepts of threat actor, exploit, vulnerability and (business) impact. (You can find writeups about security incidents from Darknet Diaries and Krebs)
