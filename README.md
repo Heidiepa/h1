@@ -29,12 +29,10 @@ EP 122: Lisa
 
 ## How would you compare Cyber Kill Chain and ATT&CK Enterprise matrix? Who do you think could benefit from these models?
 
-Cyber Kill Chain and Atta&ck enterprise matrix are introverted and extroverted friends. Introverted and detail oriented Atta&ck matrix plans everything out and is prepared for everything but does not actually do anything. 
 
-The MITRE ATT&CK Framework is a knowledge base and model for understanding adversary behavior. Developed by the not-for-profit MITRE Corporation and originally designed in support of the U.S. Military, it covers the full spectrum of tactics, techniques, and procedures used by attackers, from reconnaissance and initial access through to impact.
+The Cyber Kill Chain and ATT&CK framework are approaching the same things from a bit different perspectives, use cases, depth and trhough different approach of community involvement. Cyber Kil Chain is more high level and ATT&CK framework more detailed. The focus is also different: CKC is about stages of attack, from attacker POV and ATT&CK is more tactic and procedure related. The Cyber Kill Chain and ATT&CK framework complement each other and should be used together to achieve best results. CKC can be used in intial stage of threat detection and prevention and ATT&CK framework after that. Finally, update-wise ATT&CK framework is superior  and is community supported model which makes it more applocable to real-life situations.
 
-The ATT&CK framework goes beyond just mapping out the stages of an attack. It provides a detailed description of the techniques used by attackers at each stage, along with mitigation strategies and detection methods. It is regularly updated and expanded, taking into account the latest threat intelligence and research.
-
+I feel that all organisations could benefit from these models, if not fully, at least by adapting parts of them to match with company environment.
 
 ## Pick a security incident and learn about it. Write briefly about it. Point out the concepts of threat actor, exploit, vulnerability and (business) impact. (You can find writeups about security incidents from Darknet Diaries and Krebs)
 Melissa Virus, one of the firt major cyber security incidents in year 1999. The virus was created by threat actor David Lee Smith .
